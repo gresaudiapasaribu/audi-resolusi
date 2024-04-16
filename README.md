@@ -1,2 +1,2 @@
 # audi-resolusi
-repository untuk menyimpan rencan kedepan
+repository untuk menyimpan rencana kedepan
